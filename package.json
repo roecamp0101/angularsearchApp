@@ -1,0 +1,11 @@
+{
+  "name": "angularsearchapp",
+  "version": "1.0.0",
+  "description": "angular used for searching people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "roeroecamp",
+  "license": "ISC"
+}
